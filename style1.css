@@ -97,9 +97,12 @@ margin: -8px;
   }
 @media (max-width:992px) {
   .x{
-    max-width:380px;
+    
     padding-bottom: 20px;
-    margin-left: 1rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
   }
 
   h1,h3,p{
