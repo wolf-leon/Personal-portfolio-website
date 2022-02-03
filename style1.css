@@ -99,6 +99,7 @@ margin: -8px;
   .x{
     max-width:380px;
     padding-bottom: 20px;
+    margin-left: 1rem;
   }
 
   h1,h3,p{
@@ -106,7 +107,7 @@ margin: -8px;
   }
   .card {
     margin-bottom: 2rem;
-    margin-left: 1.5rem;
+    margin-left: 1rem;
    padding: 4.5px;
     }
 
