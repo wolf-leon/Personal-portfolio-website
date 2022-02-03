@@ -119,9 +119,10 @@ margin: -8px;
 
 @media (max-width:572px) {
   .card {
-    margin-bottom: 2rem;
-    margin-left: 1rem;
-   padding: 4.5px;
+        margin: 0 auto; /* Added */
+        float: none; /* Added */
+        margin-bottom:10px; 
+       
     }
 
  .x{
