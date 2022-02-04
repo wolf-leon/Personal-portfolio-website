@@ -4,7 +4,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lobster&family=Nunito:wght@300&display=swap');
 
 .card{
-  margin-left: 15px 15px;
+  margin: 15px 15px;
 }
 
 h3{
@@ -113,7 +113,7 @@ h3{
   
   .card {
     padding-bottom: 2rem;
-    margin:20px 20px;
+    margin:25px 25px;
     }
 
   
