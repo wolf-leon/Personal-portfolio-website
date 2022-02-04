@@ -30,11 +30,6 @@ h3{
   margin-right: auto;
 }
 
-
-#work{
-margin: -8px;
-}
-
 /* PRELOADER CSS */
 .page-loader{
   width: 100%;
@@ -112,7 +107,7 @@ margin: -8px;
     }
 
     .t{
-      padding-top: 20px;
+      padding-top: 60px;
     }
 
 }
