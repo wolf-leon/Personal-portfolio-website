@@ -111,7 +111,7 @@ h3{
 @media (max-width:572px) {
   
   .card {
-    padding-bottom: 2rem;
+    margin-bottom: 2rem;
     margin:0 auto;
     }
 
