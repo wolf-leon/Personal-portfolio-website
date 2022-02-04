@@ -98,9 +98,8 @@ h3{
     text-align: center;
   }
   .card {
-    margin-bottom: 2rem;
-    margin-left:3rem;
-    padding:4.5px;
+    padding-bottom: 2rem;
+    margin:32px auto;
     }
 
     .t{
