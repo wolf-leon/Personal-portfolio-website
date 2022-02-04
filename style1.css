@@ -118,15 +118,8 @@ margin: -8px;
 }
 
 @media (max-width:572px) {
-  .card {
-        margin: 0 auto; /* Added */
-        float: none; /* Added */
-        margin-bottom:10px; 
-       
-    }
-
  .x{
-    max-width:340px;
+    max-width:355px;
     height:auto;
     padding-bottom: 20px;
   }
