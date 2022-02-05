@@ -98,8 +98,8 @@ h3{
     text-align: center;
   }
   .card {
-    padding-bottom: 2rem;
-    margin:25px auto;
+   
+    margin-bottom:25px;
     }
 
     .t{
@@ -111,7 +111,7 @@ h3{
 @media (max-width:572px) {
   
   .card {
-    margin:25px auto;
+    margin-bottom:25px;
     }
   
   .t{
